@@ -25,5 +25,9 @@ Durante un fin de semana, participantes alrededor de todo el mundo se organizan 
 st.header('¿Quién puede participar en Space Apps?')
 
 st.write(
-    '''¡Space Apps es para todos! Sin importar tu edad, escolaridad y experiencia, en Space Apps eres bienvenido a integrarte a un equipo y disfrutar al máximo esta experiencia.'''
+    '''¡Space Apps es para todos! Sin importar tu edad, escolaridad y experiencia, en Space Apps eres bienvenido a integrarte a un equipo y disfrutar al máximo esta experiencia.
+    
+Para participantes menores de edad, es necesario presentar un formato de consentimiento de parte de sus tutores legales para poder formar parte del evento.
+
+Los participantes menores a los 13 años deberán estar acompañados en todo momento por un tutor legal.'''
     )
