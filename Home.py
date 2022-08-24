@@ -11,3 +11,9 @@ with col1:
     st.image(os.path.join(MEDIA_DIR, 'img', 'CUU_sticker_blanco1.png'), width=150)
 with col2:
     st.title('NASA Space Apps Chihuahua')
+
+st.header('¿Qué es Space Apps?')
+
+st.write(
+    '''Space Apps es un hackathon auspiciado por la NASA'''
+    )
