@@ -2,9 +2,9 @@ import streamlit as st
 import os
 ## Page variables
 
-st.set_page_config()
-
 MEDIA_DIR = os.path.join(os.getcwd(), 'media', 'Home') 
+
+st.set_page_config(page_title='Space Apps CUU', page_icon=os.path.join(MEDIA_DIR, 'img', 'CUU_sticker_blanco1.png'))
 
 ### Page content
 
