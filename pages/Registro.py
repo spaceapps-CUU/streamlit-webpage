@@ -10,3 +10,6 @@ st.header('¿Listo para el reto?')
 if(REGISTER_OPEN):
     st.write('Actualmente el registro se encuentra abierto puedes registrar a tu equipo desde el siguiente link:')
     st.write(REGISTER_LINK)
+else:
+    st.write('Actualmente el registro se encuentra cerrado, quedate atento a nuestras redes sociales para participar.')
+    st.write('Redes: ')
