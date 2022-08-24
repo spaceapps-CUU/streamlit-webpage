@@ -6,7 +6,7 @@ MEDIA_DIR = os.path.join(os.getcwd(), 'media', 'Home')
 
 ### Page content
 
-col1, col2 = st.columns([3,15])
+col1, col2 = st.columns([1,1,15])
 with col1:
     st.image(os.path.join(MEDIA_DIR, 'img', 'CUU_sticker_blanco1.png'), width=150)
 with col2:
