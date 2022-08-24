@@ -17,11 +17,13 @@ with col2:
 st.header('¿Qué es Space Apps?')
 
 st.write(
-    '''Space Apps es un hackathon auspiciado por la NASA que pretende generar soluciones creativas a problemas actuales.'''
+    '''Space Apps es una iniciativa de la NASA que busca reunir a las mentes más creativas del planeta para generar propuestas de solución a problemas de la Tierra y el espacio.
+
+Durante un fin de semana, participantes alrededor de todo el mundo se organizan en equipos para resolver uno de los desafíos propuestos por la NASA y sus colaboradores.'''
     )
 
-st.header('¿Quiénes pueden participar en Space Apps?')
+st.header('¿Quién puede participar en Space Apps?')
 
 st.write(
-    '''Space Apps no tiene un público específico al cual esté enfocado, por lo que cualquier .'''
+    '''¡Space Apps es para todos! Sin importar tu edad, escolaridad y experiencia, en Space Apps eres bienvenido a integrarte a un equipo y disfrutar al máximo esta experiencia.'''
     )
